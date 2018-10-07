@@ -1,0 +1,12 @@
+{
+  "ID": "E906186BC3D047E2B6AE762137F5706E",
+  "ActionKeyword": "*",
+  "Name": "Migemo Search",
+  "Description": "Migemo with Everything Search",
+  "Author": "hide212131",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/hide212131/WoxMigemo",
+  "ExecuteFileName": "Wox.Plugin.MigemoSearch.dll",
+  "IcoPath": "app.png"
+}
